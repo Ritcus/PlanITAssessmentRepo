@@ -15,7 +15,7 @@ Visual Studio 2019 with .Net Core is needed to run the project. **
 
 ###Projects Description###
 
-Challenges are categorized using project name. As I have asked to do 2 project,
+Challenges are categorized using project name. As I was asked to do 2 project,
 but after completion of 2 project I had the curious of another one which I can't 
 stop myself to do it.
 There are 3 challenges in this repos all has been categorized my the challenges
