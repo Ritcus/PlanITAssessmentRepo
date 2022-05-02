@@ -15,10 +15,10 @@ Visual Studio 2019 with .Net Core is needed to run the project. **
 
 ###Projects Description###
 
-Challenges are categorized using project name. As I was asked to do 2 project,
-but after completion of 2 project I had the curious of another one which I can't 
+Challenges are categorized using project name. As I was asked to do 2 projects,
+but after completion of 2 project I had that curiousness of another one which I can't 
 stop myself to do it.
-There are 3 challenges in this repos all has been categorized my the challenges
+Hence, there are 3 project folder in this repos and all has been categorized my the challenges
 name respectively.
 
 ###Automation Testing###
