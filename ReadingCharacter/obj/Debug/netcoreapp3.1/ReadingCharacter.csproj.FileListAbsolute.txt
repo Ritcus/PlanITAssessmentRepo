@@ -1,0 +1,14 @@
+C:\Users\Ritcus Matgau\source\repos\PlanITAssessment\ReadingCharacter\bin\Debug\netcoreapp3.1\ReadingCharacter.exe
+C:\Users\Ritcus Matgau\source\repos\PlanITAssessment\ReadingCharacter\bin\Debug\netcoreapp3.1\ReadingCharacter.deps.json
+C:\Users\Ritcus Matgau\source\repos\PlanITAssessment\ReadingCharacter\bin\Debug\netcoreapp3.1\ReadingCharacter.runtimeconfig.json
+C:\Users\Ritcus Matgau\source\repos\PlanITAssessment\ReadingCharacter\bin\Debug\netcoreapp3.1\ReadingCharacter.runtimeconfig.dev.json
+C:\Users\Ritcus Matgau\source\repos\PlanITAssessment\ReadingCharacter\bin\Debug\netcoreapp3.1\ReadingCharacter.dll
+C:\Users\Ritcus Matgau\source\repos\PlanITAssessment\ReadingCharacter\bin\Debug\netcoreapp3.1\ReadingCharacter.pdb
+C:\Users\Ritcus Matgau\source\repos\PlanITAssessment\ReadingCharacter\obj\Debug\netcoreapp3.1\ReadingCharacter.csproj.AssemblyReference.cache
+C:\Users\Ritcus Matgau\source\repos\PlanITAssessment\ReadingCharacter\obj\Debug\netcoreapp3.1\ReadingCharacter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ritcus Matgau\source\repos\PlanITAssessment\ReadingCharacter\obj\Debug\netcoreapp3.1\ReadingCharacter.AssemblyInfoInputs.cache
+C:\Users\Ritcus Matgau\source\repos\PlanITAssessment\ReadingCharacter\obj\Debug\netcoreapp3.1\ReadingCharacter.AssemblyInfo.cs
+C:\Users\Ritcus Matgau\source\repos\PlanITAssessment\ReadingCharacter\obj\Debug\netcoreapp3.1\ReadingCharacter.csproj.CoreCompileInputs.cache
+C:\Users\Ritcus Matgau\source\repos\PlanITAssessment\ReadingCharacter\obj\Debug\netcoreapp3.1\ReadingCharacter.dll
+C:\Users\Ritcus Matgau\source\repos\PlanITAssessment\ReadingCharacter\obj\Debug\netcoreapp3.1\ReadingCharacter.pdb
+C:\Users\Ritcus Matgau\source\repos\PlanITAssessment\ReadingCharacter\obj\Debug\netcoreapp3.1\ReadingCharacter.genruntimeconfig.cache
